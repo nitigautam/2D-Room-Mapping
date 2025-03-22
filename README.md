@@ -53,6 +53,26 @@ Libraries Used:
 
 * Software: Python 3.x, Arduino IDE.
 
+5.4 Hardware Requirements
+
+* Arduino (Uno).
+
+* HC-SR04 Ultrasonic Sensor.
+
+* Jumper wires, breadboard.
+
+* Laptop for processing and visualization.
+
+
+![image](https://github.com/user-attachments/assets/c5157fd1-9480-47bb-ab16-12ec52745e6c)
+
+Conclusion
+
+This project successfully demonstrates that room mapping can be achieved with minimal resources, showcasing a system that is both cost-effective and functional. 
+By integrating simple hardware like the Arduino and HC-SR04 ultrasonic sensor with Python for visualization, it provides a practical introduction to spatial data processing and mapping.
+The results validate the system’s effectiveness in creating a basic 2D map of a room, making it a viable solution for scenarios where expensive mapping tools are impractical. This implementation serves as a foundation for further development, including potential upgrades such as:
+
+
 
 
 

@@ -21,3 +21,24 @@ The primary objective of this project is to design and implement a portable, low
 * Dynamically visualize the results in real-time using Python-based plotting libraries.
 
 * Provide a simple, scalable solution that can be adapted for various use cases, such as robotics navigation, indoor mapping for education, and preliminary spatial analysis.
+
+Methodology
+
+5.1 Data Structures and Algorithms Used
+
+* Data Structures: Lists to store distance and coordinate data.
+
+* Algorithms: Trigonometric calculations for coordinate transformation:
+
+ox=d⋅cos⁡(θ)x = d \cdot \cos(\theta)x=d⋅cos(θ)
+
+oy=d⋅sin⁡(θ)y = d \cdot \sin(\theta)y=d⋅sin(θ)
+
+5.2 Tech Stack
+
+Programming Languages:
+
+* Python (for visualization)
+* C++ (Arduino sketch)
+
+

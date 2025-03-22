@@ -72,6 +72,16 @@ This project successfully demonstrates that room mapping can be achieved with mi
 By integrating simple hardware like the Arduino and HC-SR04 ultrasonic sensor with Python for visualization, it provides a practical introduction to spatial data processing and mapping.
 The results validate the system’s effectiveness in creating a basic 2D map of a room, making it a viable solution for scenarios where expensive mapping tools are impractical. This implementation serves as a foundation for further development, including potential upgrades such as:
 
+1. Servo Motor Integration: Automating sensor rotation to eliminate manual intervention.
+
+2. Enhanced Accuracy: Using multiple sensors or improving algorithms to minimize noise and errors in data.
+
+3. 3D Mapping Capability: Adding vertical measurements to extend the system for 3D space visualization.
+
+4. Wireless Communication: Implementing Bluetooth or Wi-Fi modules for remote control and data transmission.
+
+By addressing the limitations of cost and complexity found in advanced mapping systems, this project offers a meaningful contribution to the field of accessible and affordable indoor mapping solutions. It also encourages further experimentation and innovation among students, hobbyists, and developers.
+
 
 
 

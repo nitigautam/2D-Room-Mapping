@@ -40,5 +40,19 @@ Programming Languages:
 
 * Python (for visualization)
 * C++ (Arduino sketch)
+  
+Libraries Used:
+
+* matplotlib for real-time plotting.
+
+* pyserial for communication between Arduino and Python.
+
+5.3 System Requirements
+
+* Operating System: Linux-based system (e.g., Linux Mint or Ubuntu 22.04).
+
+* Software: Python 3.x, Arduino IDE.
+
+
 
 
